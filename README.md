@@ -1,6 +1,6 @@
-# Opa, me chamo Diogo Pedrosa!
+<h1 align="center">Opa, Meu nome é Diogo Pedrosa!</h1>
 
-## Dei inicio aos meus estudos na area da programação recentemente, atualmente estou fazendo uma faculdade de S.I (Quarto Periodo), ando explorando varias linguagens para descobrir em quais me identifico mais!
+<h3 align="center" Dei inicio aos meus estudos na area da programação recentemente, atualmente estou fazendo uma faculdade de S.I (Quarto Periodo), ando explorando varias linguagens para descobrir em quais me identifico mais!</h3>
 
 ### 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
 
