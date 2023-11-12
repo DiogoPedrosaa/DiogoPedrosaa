@@ -2,6 +2,9 @@
 
 <h3 align="center"> Dei inicio aos meus estudos na area da programação recentemente, atualmente estou fazendo uma faculdade de S.I (Quarto Periodo), ando explorando varias linguagens para descobrir em quais me identifico mais! </h3>
 
+<br>
+<\br>
+
 ### 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
 
 ### 🌱 Atualmente Estou Aprendendo Java, e tenho interesse em me aprofundar tambem em Python!
