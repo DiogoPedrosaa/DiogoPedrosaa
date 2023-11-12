@@ -1,4 +1,4 @@
-### Opa, me chamo Diogo Pedrosa!
+# Opa, me chamo Diogo Pedrosa!
 
 ### 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
 
