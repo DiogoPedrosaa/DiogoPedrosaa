@@ -4,7 +4,7 @@
 
 ### 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
 
-### 🌱 Atualmente Estou Aprendendo Java.
+### 🌱 Atualmente Estou Aprendendo Java, e tenho interesse em me aprofundar tambem em Python!
 
 ### 📫 Como entrar em contato comigo: 
 <div>
