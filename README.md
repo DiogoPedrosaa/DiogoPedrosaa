@@ -1,12 +1,12 @@
 # Opa, me chamo Diogo Pedrosa!
 
-### Dei inicio aos meus estudos na area da programação recentemente, atualmente estou fazendo uma faculdade de S.I (Quarto Periodo), ando explorando varias linguagens para descobrir em quais me identifico mais!
+## Dei inicio aos meus estudos na area da programação recentemente, atualmente estou fazendo uma faculdade de S.I (Quarto Periodo), ando explorando varias linguagens para descobrir em quais me identifico mais!
 
-## 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
+### 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
 
-## 🌱 Atualmente Estou Aprendendo Java.
+### 🌱 Atualmente Estou Aprendendo Java.
 
-## 📫 Como entrar em contato comigo: 
+### 📫 Como entrar em contato comigo: 
 <div>
 <a href="https://www.linkedin.com/in/diogo-pedrosa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.instagram.com/diogozsz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
