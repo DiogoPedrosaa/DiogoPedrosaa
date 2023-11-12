@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
-- 🌱 Atualmente Estou Aprendendo Java.
-- 📫 Como entrar em contato comigo: 
+### 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
+### 🌱 Atualmente Estou Aprendendo Java.
+### 📫 Como entrar em contato comigo: 
 <div>
 <a href="https://www.linkedin.com/in/diogo-pedrosa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
