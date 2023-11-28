@@ -8,7 +8,7 @@ Tenho interesse em me tornar um Desenvolvedor-Web back-end, quem sabe um fullsta
 
 ### 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
 
-### 🌱 Atualmente Estou Aprendendo Java junto com o framework Spring Boot, e tenho interesse em me aprofundar tambem em Python com o framework Django, NodeJs, React.
+### 🌱 Atualmente Estou Aprendendo Java junto com o framework Spring Boot, e tenho interesse em me aprofundar tambem em Python com o framework Django, e no futuro NodeJs, React.
 
 ### 📫 Como entrar em contato comigo: 
 <div>
