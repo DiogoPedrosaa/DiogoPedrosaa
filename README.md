@@ -16,6 +16,8 @@ Tenho interesse em me tornar um Desenvolvedor-Web back-end, quem sabe um fullsta
 <a href="https://www.instagram.com/diogozsz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+### Ferramentas e Tecnologias:
+<img loading="lazy" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"" width="40" height="40"/>
 
 
 
