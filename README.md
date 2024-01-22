@@ -1,14 +1,14 @@
 <h1 align="center">Opa, Meu nome é Diogo Pedrosa!</h1>
 
-<h3 align="center"> Dei inicio aos meus estudos na area da programação recentemente, atualmente estou fazendo uma faculdade de S.I (Quarto Periodo), ando explorando varias linguagens para descobrir em quais me identifico mais!
+<h3 align="center"> Dei inicio aos meus estudos na area da programação recentemente, atualmente estou fazendo uma faculdade de S.I (Quinto Periodo), ando explorando varias linguagens para descobrir em quais me identifico mais!
 Tenho interesse em me tornar um Desenvolvedor-Web back-end, quem sabe um fullstack.</h3>
 
 <br>
 
 
-### 🔭 Atualmente Estou Trabalho em Projetos Individuais para treino enquanto tento procurar um estagio na area de desenvolvimento de software. 
+### 🔭 Atualmente Estou Trabalhando na Secretaria Municipal da Economia, onde desenvolvo projetos web com DJANGO, CSS e JS.
 
-### 🌱 Atualmente Estou Aprendendo Java junto com o framework Spring Boot, e tenho interesse em me aprofundar tambem em Python com o framework Django, e no futuro NodeJs, React.
+### 🌱 Atualmente Estou Aprendendo Java junto com o framework Spring Boot, e tambem estudando python e django.
 
 ### 📫 Como entrar em contato comigo: 
 <div>
@@ -17,7 +17,7 @@ Tenho interesse em me tornar um Desenvolvedor-Web back-end, quem sabe um fullsta
 </div>
 
 ### Ferramentas e Tecnologias: 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
 
 
 
