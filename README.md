@@ -1,14 +1,14 @@
 <h1 align="center">Opa, Meu nome é Diogo Pedrosa!</h1>
 
-<h3 align="center"> Dei inicio aos meus estudos na area da programação recentemente, atualmente estou fazendo uma faculdade de S.I (Quinto Periodo), ando explorando varias linguagens para descobrir em quais me identifico mais!
-Tenho interesse em me tornar um Desenvolvedor-Web back-end, quem sabe um fullstack.</h3>
+<h3 align="center"> Dei inicio aos meus estudos na area da programação recentemente, atualmente estou cursando Sistemas de Informação, ando explorando varias linguagens para descobrir em quais me identifico mais!
+Tenho interesse em me tornar um Desenvolvedor Back-End, quem sabe um fullstack.</h3>
 
 <br>
 
 
 ### 🔭 Atualmente Estou Trabalhando na Secretaria Municipal da Economia, onde desenvolvo projetos web com DJANGO, CSS e JS.
 
-### 🌱 Atualmente Estou Aprendendo Java junto com o framework Spring Boot, e tambem estudando python e django.
+### 🌱 Atualmente Estou Aprendendo Java junto com o framework Spring Boot, e me aprofundando em Django Rest.
 
 ### 📫 Como entrar em contato comigo: 
 <div>
