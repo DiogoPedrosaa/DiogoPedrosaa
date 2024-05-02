@@ -6,7 +6,7 @@ Tenho interesse em me tornar um Desenvolvedor Back-End, quem sabe um fullstack.<
 <br>
 
 
-### 🔭 Atualmente Estou Trabalhando na Secretaria Municipal da Economia, onde desenvolvo projetos web com DJANGO, CSS e JS.
+### 🔭 Atualmente Estou Trabalhando na Secretaria Municipal da Fazenda de Maceío, onde desenvolvo projetos web com DJANGO, CSS e JS.
 
 ### 🌱 Atualmente Estou Aprendendo Java junto com o framework Spring Boot, e me aprofundando em Django Rest.
 
