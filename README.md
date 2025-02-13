@@ -1,14 +1,13 @@
 <h1 align="center">Opa, Meu nome é Diogo Pedrosa!</h1>
 
-<h3 align="center"> Dei inicio aos meus estudos na area da programação recentemente, atualmente estou cursando Sistemas de Informação, ando explorando varias linguagens para descobrir em quais me identifico mais!
-Tenho interesse em me tornar um Desenvolvedor Back-End, quem sabe um fullstack.</h3>
+<h3 align="center">Atualmente Sursando Sistemas de Informação, com experiencia em desenvolvimento de aplicações web utilizando tecnologias como: Django, Django Rest, React,PostgreSQL </h3>
 
 <br>
 
 
-### 🔭 Atualmente Estou Trabalhando na Secretaria Municipal da Fazenda de Maceío, onde desenvolvo projetos web com Django, Django Rest, Angular
+### 🔭 Atualmente Estou Trabalhando na Secretaria Municipal da Fazenda de Maceío, onde desenvolvo projetos web com Django, Django Rest, React e tambem faço parte da equipe de suporte tecnico dando apoio aos servidores da secretaria.
 
-### 🌱 Atualmente Estou Aprendendo Java junto com o framework Spring Boot, e me aprofundando em Django Rest.
+### 🌱 Atualmente Estou Estudando Java junto com o framework Spring Boot.
 
 ### 📫 Como entrar em contato comigo: 
 <div>
