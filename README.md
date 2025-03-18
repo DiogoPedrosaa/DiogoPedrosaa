@@ -1,6 +1,6 @@
 <h1 align="center">Opa, Meu nome é Diogo Pedrosa!</h1>
 
-<h3 align="center">Atualmente Sursando Sistemas de Informação, com experiencia em desenvolvimento de aplicações web utilizando tecnologias como: Django, Django Rest, React,PostgreSQL </h3>
+<h3 align="center">Atualmente Cursando Sistemas de Informação, com experiencia em desenvolvimento de aplicações web utilizando tecnologias como: Django, Django Rest, React,PostgreSQL </h3>
 
 <br>
 
