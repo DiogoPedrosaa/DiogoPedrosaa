@@ -5,9 +5,9 @@
 <br>
 
 
-### 🔭 Atualmente Estou Trabalhando na Secretaria Municipal da Fazenda de Maceío, onde desenvolvo projetos web com Django, Django Rest, React e tambem faço parte da equipe de suporte tecnico dando apoio aos servidores da secretaria.
+### 🔭 Atualmente sou estagiario na Mango Salad Games, onde utilizo tecnologias como: JavaScript, TypeScript, NodeJS, MongoDB para o desenvolvimento de projetos WEB.
 
-### 🌱 Atualmente Estou Estudando Java junto com o framework Spring Boot.
+### 🌱 No meu tempo livre atualmente me dedico a estudos de Java e Spring Framework.
 
 ### 📫 Como entrar em contato comigo: 
 <div>
