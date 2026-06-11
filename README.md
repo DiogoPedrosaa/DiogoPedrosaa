@@ -1,42 +1,37 @@
-<h1 align="center">Olá, me chamo Diogo Pedrosa 👋</h1>
+<h1 align="center">Olá, eu sou Diogo Pedrosa 👋</h1>
 
 <h3 align="center">
 Desenvolvedor de Software formado em Sistemas de Informação pelo CESMAC.
-Apaixonado por construir aplicações Web e Mobile, com experiência em desenvolvimento Full Stack, integração de APIs, Inteligência Artificial e soluções voltadas para negócios reais.
+Experiência em desenvolvimento Full Stack utilizando Django, React, Node.js, TypeScript, PostgreSQL e MongoDB.
 </h3>
 
-<br>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1S_ysH7XT3dkuUdyEqMpYzAJlwPWaJ0XX/view?usp=drive_link">
+    📄 Currículo
+  </a>
+  •
+  <a href="https://drive.google.com/file/d/1Wjpq2FTWX176TzccpaJiJP394nABjhTN/view?usp=drive_link">
+    🚀 Portfólio
+  </a>
+</p>
+
+---
 
 ### 💼 Sobre mim
 
-Atuei como Desenvolvedor de Software na Mango Salad Games, contribuindo para plataformas Web e Mobile utilizadas por milhares de usuários, desenvolvendo funcionalidades de negócio, integrações financeiras, recursos com IA e melhorias de experiência do usuário.
-
-Também possuo experiência na Secretaria Municipal da Fazenda de Maceió, onde participei da modernização de processos internos através do desenvolvimento de sistemas e automações.
-
-### 🚀 Experiência com
-
-- Desenvolvimento Full Stack
-- APIs REST
-- React & React Native
-- Node.js & NestJS
-- Django & Django REST Framework
-- PostgreSQL & MongoDB
-- Integração de pagamentos (PIX)
-- Integração com LLMs e IA
-- Arquitetura e modelagem de sistemas
-
-
-### 🌱 Atualmente
-
-- Aprimorando conhecimentos em Java e Spring Boot
-- Desenvolvendo projetos pessoais
-- Buscando oportunidades para atuar como Desenvolvedor Full Stack
+- 🚀 Experiência com desenvolvimento Web e Mobile
+- 🔧 Desenvolvimento e integração de APIs REST
+- 🤖 Integração de Inteligência Artificial (LLMs)
+- 💳 Implementação de sistemas de pagamento (PIX)
+- 📱 Desenvolvimento com React Native
+- 🌱 Atualmente estudando Java e Spring Boot
+- 🎯 Em busca de oportunidades como Desenvolvedor de Software
 
 ### 📫 Contato
 
 <div>
 <a href="https://www.linkedin.com/in/diogo-pedrosaa" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
 
@@ -45,7 +40,6 @@ Também possuo experiência na Secretaria Municipal da Fazenda de Maceió, onde 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
@@ -56,3 +50,11 @@ Também possuo experiência na Secretaria Municipal da Fazenda de Maceió, onde 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
 </p>
+
+<br>
+
+<div>
+<a href="https://github.com/DiogoPedrosaa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoPedrosaa&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+</div>
