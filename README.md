@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Diogo Pedrosa 👋</h1>
+<h1 align="center">Olá, me chamo Diogo Pedrosa 👋</h1>
 
 <h3 align="center">
 Desenvolvedor de Software formado em Sistemas de Informação pelo CESMAC.
@@ -25,16 +25,6 @@ Também possuo experiência na Secretaria Municipal da Fazenda de Maceió, onde 
 - Integração com LLMs e IA
 - Arquitetura e modelagem de sistemas
 
-### 🎓 Projeto de Conclusão de Curso
-
-Desenvolvi uma plataforma completa para acompanhamento de pacientes diabéticos composta por:
-
-- Aplicativo Mobile
-- Painel Administrativo Web
-- Documentação completa
-- Casos de Uso
-- Diagramas UML
-- Análise por Pontos de Função
 
 ### 🌱 Atualmente
 
