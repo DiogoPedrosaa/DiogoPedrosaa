@@ -10,7 +10,7 @@ Experiência em desenvolvimento Full Stack utilizando Django, React, Node.js, Ty
     📄 Currículo
   </a>
   •
-  <a href="https://drive.google.com/file/d/1Wjpq2FTWX176TzccpaJiJP394nABjhTN/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1Wjpq2FTWX176TzccpaJiJP394nABjhTN/view">
     🚀 Portfólio
   </a>
 </p>
